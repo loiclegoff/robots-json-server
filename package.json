@@ -1,0 +1,25 @@
+{
+  "name": "robots-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loiclegoff/robots-json-server.git"
+  },
+  "author": "LE GOFF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loiclegoff/robots-json-server/issues"
+  },
+  "homepage": "https://github.com/loiclegoff/robots-json-server#readme",
+  "devDependencies": {
+    "json-server": "^0.16.2"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}

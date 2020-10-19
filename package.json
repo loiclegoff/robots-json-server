@@ -16,7 +16,7 @@
     "url": "https://github.com/loiclegoff/robots-json-server/issues"
   },
   "homepage": "https://github.com/loiclegoff/robots-json-server#readme",
-  "devDependencies": {
+  "dependencies": {
     "json-server": "^0.16.2"
   },
   "engines": {

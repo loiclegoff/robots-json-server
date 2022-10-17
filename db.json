@@ -5,7 +5,7 @@
         "title":"robotA",
         "visual_type":"img",
         "visual_src":"https://www.robot-advance.com/EN/ori-wowwee-mip-white-robot-1281_1613.jpg",
-        "parts":["A1","A1","A1","A1","A5"]
+        "parts":["A1","A5"]
     },
     {
         "id":2,
@@ -19,7 +19,7 @@
         "title":"robotC",
         "visual_type":"img",
         "visual_src":"http://www.fragger.fr/wp-content/uploads/2011/11/asimo12.jpg",
-        "parts":["A3","A3","A3","A7","A5"]
+        "parts":["A3","A7","A5"]
     },
     {
         "id":4,

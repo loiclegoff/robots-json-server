@@ -12,7 +12,7 @@
         "title":"robotB",
         "visual_type":"video",
         "visual_src":"https://www.youtube.com/embed/ePINYZK4p5Y",
-        "parts":["A2","A2","A5"]
+        "parts":["A2","A5"]
     },
     {
         "id":3,
@@ -33,7 +33,7 @@
         "title":"robotE",
         "visual_type":"video",
         "visual_src":"https://www.youtube.com/embed/29MD29ekoKI",
-        "parts":["A3","A1","A2","A7","A5"]
+        "parts":["A1","A2","A3","A7","A5"]
     }
     ],
     "parts":[
